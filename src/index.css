@@ -15,10 +15,3 @@ code {
     monospace;
 } */
 
-body {
-  background-image: url('../src/Images/11.jpg');
-  background-attachment: fixed;
-  background-size: cover;
-  /* background-size: 100rem 52rem; */
-  background-repeat: no-repeat;
-}
